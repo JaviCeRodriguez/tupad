@@ -1,0 +1,8 @@
+{
+  "label": "Nivel I",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Materias correspondientes al primer nivel de la carrera."
+  }
+}
