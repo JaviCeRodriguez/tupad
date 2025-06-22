@@ -87,7 +87,7 @@ const config: Config = {
           items: [
             {
               label: "Materias",
-              to: "/subjects/intro",
+              to: "/subjects",
             },
           ],
         },
