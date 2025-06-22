@@ -73,7 +73,7 @@ const config: Config = {
           label: "Materias",
         },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/JaviCeRodriguez/tupad",
           label: "GitHub",
           position: "right",
         },
@@ -96,7 +96,7 @@ const config: Config = {
           items: [
             {
               label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              href: "https://discord.gg/UECNRm4eM4",
             },
           ],
         },
@@ -105,7 +105,7 @@ const config: Config = {
           items: [
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/JaviCeRodriguez/tupad",
             },
           ],
         },

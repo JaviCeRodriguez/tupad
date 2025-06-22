@@ -18,7 +18,7 @@ Hay muchas formas de contribuir:
 
 La forma más sencilla de proponer cambios es a través de la interfaz de GitHub.
 
-1.  **Navega al archivo:** Encuentra el archivo de la materia y tema que quieres editar dentro de la carpeta `docs` en el [repositorio de GitHub](https://github.com/utn-frsn-tupad/tupad).
+1.  **Navega al archivo:** Encuentra el archivo de la materia y tema que quieres editar dentro de la carpeta `docs` en el [repositorio de GitHub](https://github.com/JaviCeRodriguez/tupad).
 2.  **Edita el archivo:** Haz clic en el ícono del lápiz ("Edit this file") en la esquina superior derecha del visor de archivos.
 3.  **Realiza tus cambios:** Edita el contenido usando la sintaxis de Markdown.
 4.  **Propón los cambios:** En la parte inferior de la página, escribe un título y una descripción clara de los cambios que realizaste y haz clic en "Propose changes".
@@ -30,7 +30,7 @@ Un administrador revisará tus cambios y, si todo está bien, los incorporará a
 
 Si no sabes cómo corregir algo pero quieres reportar un problema, puedes crear un "Issue" en GitHub.
 
-1.  Ve a la [sección de Issues](https://github.com/utn-frsn-tupad/tupad/issues) del repositorio.
+1.  Ve a la [sección de Issues](https://github.com/JaviCeRodriguez/tupad/issues) del repositorio.
 2.  Haz clic en "New issue".
 3.  Escribe un título descriptivo y explica el problema en detalle.
 
